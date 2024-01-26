@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",
+      "target": "ESNext",
+      "sourceMap": true,
+      "declaration": true,
+      "declarationMap": true,
+      "skipLibCheck": true,
+      "moduleResolution": "Node",
+      "noImplicitAny": false,
+      "allowSyntheticDefaultImports": true,
+      "strictPropertyInitialization": false,
+      "jsx": "react-jsx",
+      "strict": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true
+    },
+    "exclude": [
+      "node_modules",
+      "build",
+      "dist"
+    ]
+  }
